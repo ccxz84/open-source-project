@@ -2,7 +2,7 @@
 [![Pulls][pulls-shield]][pulls-url]
 [![MIT License][license-shield]][license-url]
 
-# 오픈소스기반고급설계 프로젝트 [안드로이드 2팀 - 팀플레이(TeamPlay)]
+# 오픈소스기반고급설계 프로젝트[]
 
 
 ## Team Name(미정)
