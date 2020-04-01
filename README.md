@@ -2,24 +2,19 @@
 [![Pulls][pulls-shield]][pulls-url]
 [![MIT License][license-shield]][license-url]
 
-## 오픈소스기반고급설계 프로젝트 [안드로이드 2팀 - 팀플레이(TeamPlay)]
-***
+# 오픈소스기반고급설계 프로젝트 [안드로이드 2팀 - 팀플레이(TeamPlay)]
 
-#### Team Name(미정)
 
-#### Team
-- 최민성
-- 최창익
-- 서지원
+## Team Name(미정)
 
-#### Project Name(미정)
+## Project Name(미정)
 
-- 프로젝트 소개 내용 기입 예정
+- 프로젝트 소개 간략하게 기입 예정
 
-#### Meeting Log(예정)
+## Meeting Log(예정)
     
 
-#### Etc
+## Etc
 
 - [API문서]()
 - [Report Bug](https://github.com/chlalstjd430/open-source-project/issues/new?template=bug_report.md)
@@ -90,6 +85,8 @@ SOFTWARE.
 ## Contact
 
 - 최민성 - cms3136@gmail.com
+- 최창익 - aackddlr@gmail.com
+- 서지원 - ccxz84@naver.com
 
 Project Link: [프로젝트명 입력 예정](https://github.com/chlalstjd430/open-source-project)
 
