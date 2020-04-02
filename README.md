@@ -12,7 +12,8 @@
 - 프로젝트 소개 간략하게 기입 예정
 
 ## Meeting Log(예정)
-    
+
+- [2020/04/02](https://docs.google.com/document/d/1Moi6urQKCPAq2nINftOKGP1mnsTuGXnn7usDXQ9kegM/edit)
 
 ## Etc
 
