@@ -14,6 +14,7 @@
 ## Meeting Log(예정)
 
 - [2020/04/02](https://docs.google.com/document/d/1Moi6urQKCPAq2nINftOKGP1mnsTuGXnn7usDXQ9kegM/edit)
+- [2020/04/03](https://docs.google.com/document/d/1dAtoGP64nKnCn_9Dqk5FHE4CUPG7cW5-SE90Uch1MdM/edit?userstoinvite=kimchungsic%40gmail.com&ts=5e871fda&actionButton=1#)
 
 ## Etc
 
