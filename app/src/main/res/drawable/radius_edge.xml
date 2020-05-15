@@ -2,7 +2,7 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@android:id/background">
         <shape>
-            <corners android:radius="10dip" />
+            <corners android:radius="4dip" />
             <gradient
                 android:startColor="#878787"
                 android:centerColor="#adadad"
