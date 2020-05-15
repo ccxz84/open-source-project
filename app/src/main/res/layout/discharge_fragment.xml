@@ -8,15 +8,16 @@
     app:layout_constraintHorizontal_bias="0">
 
     <ScrollView
+        android:id="@+id/back"
         android:layout_width="410dp"
         android:layout_height="734dp"
-        android:background="#E3E0E0"
+        android:background="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0">
+        app:layout_constraintVertical_bias="0.666">
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
@@ -443,6 +444,49 @@
                 app:layout_constraintHorizontal_bias="0.216"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
+
+            <Spinner
+                android:id="@+id/armyselection"
+                android:layout_width="104dp"
+                android:layout_height="33dp"
+                android:layout_marginTop="68dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.127"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/promotion" />
+
+            <Spinner
+                android:id="@+id/classselection"
+                android:layout_width="104dp"
+                android:layout_height="33dp"
+                android:layout_marginTop="68dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.509"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/promotion" />
+
+            <EditText
+                android:id="@+id/enli_day_edit"
+                android:layout_width="108dp"
+                android:layout_height="37dp"
+                android:layout_marginTop="68dp"
+                android:ems="10"
+                android:inputType="number"
+                android:textSize="15sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.903"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/promotion" />
+
+            <Button
+                android:id="@+id/apply"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:text="저장"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/classselection" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
