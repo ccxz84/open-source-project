@@ -7,7 +7,6 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.gunmunity.R;
 import com.example.gunmunity.community.main.CommunityMainFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
