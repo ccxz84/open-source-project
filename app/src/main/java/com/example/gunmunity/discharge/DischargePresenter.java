@@ -403,6 +403,7 @@ public class DischargePresenter implements DischargeContract.Presenter {
                             data[3] = response.body().getDischargeDate();
                             try {
                                 cadre_Setting_data(data);
+                                view.updateView(model);
                             } catch (ParseException e) {
                                 e.printStackTrace();
                             }
